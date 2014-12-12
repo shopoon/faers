@@ -1,3 +1,16 @@
+# README
+
+<dl>
+  <dt>ruby version</dt>
+  <dd>2.2.0</dd>
+
+  <dt>rails version</dt>
+  <dd>4.1.8</dd>
+
+  <dt>MySQL</dt>
+  <dd>5.6.22</dd>
+</dl>
+  
 == README
 
 This README would normally document whatever steps are necessary to get the
